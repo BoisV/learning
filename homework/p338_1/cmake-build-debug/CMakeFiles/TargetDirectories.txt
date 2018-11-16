@@ -1,0 +1,3 @@
+E:/projects/c++/homework/p338_1/cmake-build-debug/CMakeFiles/p338_1.dir
+E:/projects/c++/homework/p338_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/projects/c++/homework/p338_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
